@@ -5,6 +5,7 @@ export interface IProduct {
     description: string;
     price: number;
     currency: string;
+    type:string;
     image: string;
     reviews: {
         count: number;
