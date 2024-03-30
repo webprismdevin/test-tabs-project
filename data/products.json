@@ -1,0 +1,147 @@
+[
+    {
+      "product_id": 1,
+      "name": "Stylish Sunglasses",
+      "description": "UV Protection",
+      "price": 29,
+      "currency": "USD",
+      "image": "glass.jpeg",
+      "type": "glass",
+      "reviews": {
+        "count": 230,
+        "rating": 4 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 2,
+      "name": "Happy Hat",
+      "description": "Floats In The Pool",
+      "price": 79,
+      "currency": "USD",
+      "image": "hat.jpeg",
+      "type": "hat",
+      "reviews": {
+        "count": 140,
+        "rating": 2 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 3,
+      "name": "Hip Headphones",
+      "description": "Noise Cancelling",
+      "price": 49,
+      "currency": "USD",
+      "image": "headphone.jpeg",
+      "type": "headphone",
+      "reviews": {
+        "count": 69,
+        "rating": 5 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 4,
+      "name": "Stylish Sunglasses",
+      "description": "UV Protection",
+      "price": 29,
+      "currency": "USD",
+      "image": "glass.jpeg",
+      "type": "glass",
+      "reviews": {
+        "count": 230,
+        "rating": 3 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 5,
+      "name": "Happy Hat",
+      "description": "Floats In The Pool",
+      "price": 79,
+      "currency": "USD",
+      "image": "hat.jpeg",
+      "type": "hat",
+      "reviews": {
+        "count": 140,
+        "rating": 4 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 6,
+      "name": "Hip Headphones",
+      "description": "Noise Cancelling",
+      "price": 49,
+      "currency": "USD",
+      "image": "headphone.jpeg",
+      "type": "headphone",
+      "reviews": {
+        "count": 69,
+        "rating": 2 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 7,
+      "name": "Stylish Sunglasses",
+      "description": "UV Protection",
+      "price": 29,
+      "currency": "USD",
+      "image": "glass.jpeg",
+      "type": "glass",
+      "reviews": {
+        "count": 230,
+        "rating": 5 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 8,
+      "name": "Happy Hat",
+      "description": "Floats In The Pool",
+      "price": 79,
+      "currency": "USD",
+      "image": "hat.jpeg",
+      "type": "hat",
+      "reviews": {
+        "count": 140,
+        "rating": 1 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    },
+    {
+      "product_id": 9,
+      "name": "Hip Headphones",
+      "description": "Noise Cancelling",
+      "price": 49,
+      "currency": "USD",
+      "image": "headphone.jpeg",
+      "type": "headphone",
+      "reviews": {
+        "count": 69,
+        "rating": 3 
+      },
+      "actions": {
+        "add_to_cart": true
+      }
+    }
+  ]
+  
