@@ -31,14 +31,14 @@ const App = () => {
         <div className='flex flex-col gap-5 items-center mx-auto uppercase max-w-[1000px] w-full'>
             <div className='font-bold text-2xl lg:text-4xl'>Shop & Earn Entries</div>
             <Tab.Group>
-                <Tab.List>
+                <Tab.List className='flex gap-2 lg:gap-5 max-w-[500px] w-full'>
                     {
                         tabs.map((tab, _index) => (
-                            <Tab key={_index} className='focus:outline-none' >
+                            <Tab key={_index} className='focus:outline-none flex-1' >
                                 {({ selected }) => (
 
                                 <button  
-                                    className={clsx('font-bold uppercase text-xl p-3', { "border-b-4 border-b-black":selected})} 
+                                    className={clsx('font-bold uppercase w-full text-xl p-1 lg:p-3', { "border-b-4 border-b-black":selected})} 
                                     >
                                     {tab}
                                 </button>
